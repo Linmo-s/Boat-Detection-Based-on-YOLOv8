@@ -1,0 +1,20 @@
+train: ../train/images
+val: "D:/workspace/ultralytics-main/Aerial Maritime.v9-tiled.yolov8/valid/images"
+test: "D:/workspace/ultralytics-main/Aerial Maritime.v9-tiled.yolov8/test/images"
+
+nc: 5
+names: ['boat', 'car', 'dock', 'jetski', 'lift']
+
+weights:
+  dock: 1.0
+  car: 0.2
+  boat: 1.0
+  jetski: 1.0
+  lift: 1.0
+
+roboflow:
+  workspace: jacob-solawetz
+  project: aerial-maritime
+  version: 9
+  license: MIT
+  url: https://universe.roboflow.com/jacob-solawetz/aerial-maritime/dataset/9
