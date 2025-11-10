@@ -52,4 +52,5 @@ GUI界面
 
 作者: 
 LinMo[访问我的主页](https://github.com/Linmo-s)
+SongQinglan[访问我的主页](https://github.com/SongQinglan)
 
