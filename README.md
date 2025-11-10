@@ -28,6 +28,7 @@ Boat-Detection-Based-on-YOLOv8/
 2. 创建虚拟环境并安装依赖
 
     (建议使用虚拟环境)
+    
     pip install -r requirements.txt
 
 3. 若未安装 YOLOv8，可执行：
