@@ -51,7 +51,7 @@ GUI界面
 
 ## 🧑‍💻 作者信息
 
-作者: 
-LinMo[访问我的主页](https://github.com/Linmo-s)
-SongQinglan[访问我的主页](https://github.com/SongQinglan)
+作者: <br>
+LinMo[访问我的主页](https://github.com/Linmo-s)<be>
+SongQinglan[访问我的主页](https://github.com/SongQinglan)<br>
 
